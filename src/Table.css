@@ -1,0 +1,38 @@
+#TestData {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #TestData td, #TestData th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #TestData tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #TestData tr:hover {background-color: #ddd;}
+  
+  #TestData th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: black;
+    color: white;
+  }
+
+  button{
+    padding: 5px 15px 5px 15px;
+    margin: 10px;
+    border:none;
+    border-radius: 5px;
+  }
+
+  .save{
+    background-color: green;
+    color: white;
+  }
+  .reset{
+    background-color: darkred;
+    color: white;
+  }
