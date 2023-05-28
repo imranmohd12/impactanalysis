@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/impactanalysis/static/css/main.a84df289.css",
+    "main.js": "/impactanalysis/static/js/main.3b00c3cb.js",
+    "static/js/787.6c524c1e.chunk.js": "/impactanalysis/static/js/787.6c524c1e.chunk.js",
+    "index.html": "/impactanalysis/index.html",
+    "main.a84df289.css.map": "/impactanalysis/static/css/main.a84df289.css.map",
+    "main.3b00c3cb.js.map": "/impactanalysis/static/js/main.3b00c3cb.js.map",
+    "787.6c524c1e.chunk.js.map": "/impactanalysis/static/js/787.6c524c1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a84df289.css",
+    "static/js/main.3b00c3cb.js"
+  ]
+}
